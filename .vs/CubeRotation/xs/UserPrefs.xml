@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{72A5D522-F9E5-B794-711E-14B0178FB191}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/RotationScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/RotationScript.cs" Line="41" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
